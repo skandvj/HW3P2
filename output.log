@@ -1,0 +1,725 @@
+
+Epoch: 1/35
+[34m[1mwandb[0m: [33mWARNING[0m Saving files without folders. If you want to preserve subdirectories pass base_path to wandb.save, i.e. wandb.save("/mnt/folder/file.h5", base_path="/mnt")
+	Train Loss 1.8114	 Learning Rate 0.0020000
+	Val Dist 20.5262	 Val Loss 0.9347
+Saved epoch model
+Saved best model
+
+Epoch: 2/35
+                                                                                    
+	Train Loss 0.8667	 Learning Rate 0.0018100
+	Val Dist 14.5776	 Val Loss 0.7137
+Saved epoch model
+Saved best model
+
+Epoch: 3/35
+	Train Loss 0.6518	 Learning Rate 0.0013125
+	Val Dist 11.7253	 Val Loss 0.5410
+Saved epoch model
+Saved best model
+
+Epoch: 4/35
+	Train Loss 0.5073	 Learning Rate 0.0006975
+	Val Dist 9.5666	 Val Loss 0.4421
+Saved epoch model
+Saved best model
+
+Epoch: 5/35
+	Train Loss 0.4175	 Learning Rate 0.0002000
+	Val Dist 8.6952	 Val Loss 0.4237
+Saved epoch model
+Saved best model
+
+Epoch: 6/35
+	Train Loss 0.5843	 Learning Rate 0.0020000
+	Val Dist 11.3045	 Val Loss 0.5277
+Saved epoch model
+
+Epoch: 7/35
+	Train Loss 0.5076	 Learning Rate 0.0019513
+	Val Dist 10.0876	 Val Loss 0.4762
+Saved epoch model
+
+Epoch: 8/35
+	Train Loss 0.4647	 Learning Rate 0.0018100
+	Val Dist 9.2554	 Val Loss 0.4423
+Saved epoch model
+
+Epoch: 9/35
+	Train Loss 0.4043	 Learning Rate 0.0015898
+	Val Dist 8.3516	 Val Loss 0.3938
+Saved epoch model
+Saved best model
+
+Epoch: 10/35
+	Train Loss 0.3650	 Learning Rate 0.0013125
+	Val Dist 7.7267	 Val Loss 0.3692
+Saved epoch model
+Saved best model
+
+Epoch: 11/35
+	Train Loss 0.3115	 Learning Rate 0.0010050
+	Val Dist 7.8321	 Val Loss 0.4201
+Saved epoch model
+
+Epoch: 12/35
+	Train Loss 0.2730	 Learning Rate 0.0006975
+	Val Dist 6.6384	 Val Loss 0.3229
+Saved epoch model
+Saved best model
+
+Epoch: 13/35
+	Train Loss 0.2325	 Learning Rate 0.0004202
+	Val Dist 6.1443	 Val Loss 0.3071
+Saved epoch model
+Saved best model
+
+Epoch: 14/35
+	Train Loss 0.2090	 Learning Rate 0.0002000
+	Val Dist 6.1402	 Val Loss 0.3070
+Saved epoch model
+Saved best model
+
+Epoch: 15/35
+	Train Loss 0.1925	 Learning Rate 0.0000587
+	Val Dist 6.1559	 Val Loss 0.3062
+Saved epoch model
+
+Epoch: 16/35
+	Train Loss 0.3882	 Learning Rate 0.0020000
+	Val Dist 7.9339	 Val Loss 0.3861
+Saved epoch model
+
+Epoch: 17/35
+	Train Loss 0.3518	 Learning Rate 0.0019877
+	Val Dist 7.5784	 Val Loss 0.3732
+Saved epoch model
+
+Epoch: 18/35
+	Train Loss 0.3336	 Learning Rate 0.0019513
+	Val Dist 7.7427	 Val Loss 0.3800
+Saved epoch model
+
+Epoch: 19/35
+	Train Loss 0.3229	 Learning Rate 0.0018916
+	Val Dist 7.4807	 Val Loss 0.3685
+Saved epoch model
+
+Epoch: 20/35
+	Train Loss 0.3032	 Learning Rate 0.0018100
+	Val Dist 7.0377	 Val Loss 0.3473
+Saved epoch model
+
+Epoch: 21/35
+	Train Loss 0.2874	 Learning Rate 0.0017086
+	Val Dist 6.9349	 Val Loss 0.3411
+Saved epoch model
+
+Epoch: 22/35
+	Train Loss 0.2735	 Learning Rate 0.0015898
+	Val Dist 6.8797	 Val Loss 0.3664
+Saved epoch model
+
+Epoch: 23/35
+	Train Loss 0.2490	 Learning Rate 0.0014567
+	Val Dist 6.2683	 Val Loss 0.3174
+Saved epoch model
+
+Epoch: 24/35
+	Train Loss 0.2204	 Learning Rate 0.0013125
+	Val Dist 6.1887	 Val Loss 0.3121
+Saved epoch model
+
+Epoch: 25/35
+	Train Loss 0.2063	 Learning Rate 0.0011607
+	Val Dist 6.0909	 Val Loss 0.3165
+Saved epoch model
+Saved best model
+
+Epoch: 26/35
+	Train Loss 0.1943	 Learning Rate 0.0010050
+	Val Dist 5.9676	 Val Loss 0.3184
+Saved epoch model
+Saved best model
+
+Epoch: 27/35
+	Train Loss 0.1702	 Learning Rate 0.0008493
+	Val Dist 5.7725	 Val Loss 0.3146
+Saved epoch model
+Saved best model
+
+Epoch: 28/35
+	Train Loss 0.1486	 Learning Rate 0.0006975
+	Val Dist 5.6250	 Val Loss 0.3279
+Saved epoch model
+Saved best model
+
+Epoch: 29/35
+	Train Loss 0.1325	 Learning Rate 0.0005533
+	Val Dist 5.5048	 Val Loss 0.3302
+Saved epoch model
+Saved best model
+
+Epoch: 30/35
+	Train Loss 0.1203	 Learning Rate 0.0004202
+	Val Dist 5.5105	 Val Loss 0.3395
+Saved epoch model
+
+Epoch: 31/35
+	Train Loss 0.1077	 Learning Rate 0.0003014
+	Val Dist 5.4323	 Val Loss 0.3372
+Saved epoch model
+Saved best model
+
+Epoch: 32/35
+	Train Loss 0.1020	 Learning Rate 0.0002000
+	Val Dist 5.3472	 Val Loss 0.3449
+Saved epoch model
+Saved best model
+
+Epoch: 33/35
+Testing
+                                                                                    
+
+Epoch: 1/35
+	Train Loss 0.0917	 Learning Rate 0.0001184
+	Val Dist 5.3231	 Val Loss 0.3531
+Saved epoch model
+Saved best model
+
+Epoch: 2/35
+	Train Loss 0.0869	 Learning Rate 0.0000587
+	Val Dist 5.3817	 Val Loss 0.3609
+Saved epoch model
+
+Epoch: 3/35
+	Train Loss 0.0831	 Learning Rate 0.0000223
+	Val Dist 5.3363	 Val Loss 0.3604
+Saved epoch model
+
+Epoch: 4/35
+	Train Loss 0.2715	 Learning Rate 0.0020000
+	Val Dist 7.4536	 Val Loss 0.4050
+Saved epoch model
+
+Epoch: 5/35
+	Train Loss 0.2405	 Learning Rate 0.0019969
+	Val Dist 6.8739	 Val Loss 0.3560
+Saved epoch model
+
+Epoch: 6/35
+	Train Loss 0.2375	 Learning Rate 0.0019877
+	Val Dist 6.3852	 Val Loss 0.3337
+Saved epoch model
+
+Epoch: 7/35
+	Train Loss 0.2333	 Learning Rate 0.0019725
+	Val Dist 6.4519	 Val Loss 0.3336
+Saved epoch model
+
+Epoch: 8/35
+	Train Loss 0.2262	 Learning Rate 0.0019513
+	Val Dist 6.4729	 Val Loss 0.3424
+Saved epoch model
+
+Epoch: 9/35
+	Train Loss 0.2229	 Learning Rate 0.0019243
+	Val Dist 6.5457	 Val Loss 0.3602
+Saved epoch model
+
+Epoch: 10/35
+	Train Loss 0.2156	 Learning Rate 0.0018916
+	Val Dist 6.4954	 Val Loss 0.3576
+Saved epoch model
+
+Epoch: 11/35
+	Train Loss 0.2057	 Learning Rate 0.0018534
+	Val Dist 6.3922	 Val Loss 0.3544
+Saved epoch model
+
+Epoch: 12/35
+	Train Loss 0.2015	 Learning Rate 0.0018100
+	Val Dist 6.2846	 Val Loss 0.3355
+Saved epoch model
+
+Epoch: 13/35
+	Train Loss 0.1981	 Learning Rate 0.0017616
+	Val Dist 6.1188	 Val Loss 0.3391
+Saved epoch model
+
+Epoch: 14/35
+	Train Loss 0.1824	 Learning Rate 0.0017086
+	Val Dist 6.1230	 Val Loss 0.3377
+Saved epoch model
+
+Epoch: 15/35
+	Train Loss 0.1761	 Learning Rate 0.0016512
+	Val Dist 6.1414	 Val Loss 0.3323
+Saved epoch model
+
+Epoch: 16/35
+	Train Loss 0.1773	 Learning Rate 0.0015898
+	Val Dist 6.0374	 Val Loss 0.3411
+Saved epoch model
+
+Epoch: 17/35
+	Train Loss 0.1614	 Learning Rate 0.0015249
+	Val Dist 5.9894	 Val Loss 0.3378
+Saved epoch model
+
+Epoch: 18/35
+
+Epoch: 1/35
+	Train Loss 0.1561	 Learning Rate 0.0014567
+	Val Dist 5.6902	 Val Loss 0.3290
+Saved epoch model
+
+Epoch: 2/35
+	Train Loss 0.1462	 Learning Rate 0.0013858
+	Val Dist 5.6975	 Val Loss 0.3356
+Saved epoch model
+
+Epoch: 3/35
+	Train Loss 0.1393	 Learning Rate 0.0013125
+	Val Dist 5.8574	 Val Loss 0.3464
+Saved epoch model
+
+Epoch: 4/35
+	Train Loss 0.1303	 Learning Rate 0.0012373
+	Val Dist 5.7482	 Val Loss 0.3474
+Saved epoch model
+
+Epoch: 5/35
+	Train Loss 0.1239	 Learning Rate 0.0011607
+	Val Dist 5.5290	 Val Loss 0.3432
+Saved epoch model
+
+Epoch: 6/35
+	Train Loss 0.1093	 Learning Rate 0.0010831
+	Val Dist 5.5086	 Val Loss 0.3403
+Saved epoch model
+
+Epoch: 7/35
+	Train Loss 0.1079	 Learning Rate 0.0010050
+	Val Dist 5.4428	 Val Loss 0.3777
+Saved epoch model
+
+Epoch: 8/35
+	Train Loss 0.0992	 Learning Rate 0.0009269
+	Val Dist 5.5606	 Val Loss 0.3549
+Saved epoch model
+
+Epoch: 9/35
+	Train Loss 0.0922	 Learning Rate 0.0008493
+	Val Dist 5.3910	 Val Loss 0.3503
+Saved epoch model
+
+Epoch: 10/35
+	Train Loss 0.0841	 Learning Rate 0.0007727
+	Val Dist 5.2722	 Val Loss 0.3742
+Saved epoch model
+Saved best model
+
+Epoch: 11/35
+	Train Loss 0.0794	 Learning Rate 0.0006975
+	Val Dist 5.2637	 Val Loss 0.3872
+Saved epoch model
+Saved best model
+
+Epoch: 12/35
+	Train Loss 0.0729	 Learning Rate 0.0006242
+	Val Dist 5.2026	 Val Loss 0.3924
+Saved epoch model
+Saved best model
+
+Epoch: 13/35
+	Train Loss 0.0668	 Learning Rate 0.0005533
+	Val Dist 5.2444	 Val Loss 0.3898
+Saved epoch model
+
+Epoch: 14/35
+	Train Loss 0.0676	 Learning Rate 0.0004851
+	Val Dist 5.1306	 Val Loss 0.3978
+Saved epoch model
+Saved best model
+
+Epoch: 15/35
+	Train Loss 0.0602	 Learning Rate 0.0004202
+	Val Dist 5.2534	 Val Loss 0.4163
+Saved epoch model
+
+Epoch: 16/35
+	Train Loss 0.0569	 Learning Rate 0.0003588
+	Val Dist 5.1237	 Val Loss 0.3826
+Saved epoch model
+Saved best model
+
+Epoch: 17/35
+	Train Loss 0.0491	 Learning Rate 0.0003014
+	Val Dist 5.0670	 Val Loss 0.3946
+Saved epoch model
+Saved best model
+
+Epoch: 18/35
+	Train Loss 0.0460	 Learning Rate 0.0002484
+	Val Dist 5.0744	 Val Loss 0.4234
+Saved epoch model
+
+Epoch: 19/35
+	Train Loss 0.0474	 Learning Rate 0.0002000
+	Val Dist 5.0167	 Val Loss 0.4219
+Saved epoch model
+Saved best model
+
+Epoch: 20/35
+	Train Loss 0.0421	 Learning Rate 0.0001566
+	Val Dist 4.9908	 Val Loss 0.4286
+Saved epoch model
+Saved best model
+
+Epoch: 21/35
+	Train Loss 0.0428	 Learning Rate 0.0001184
+	Val Dist 4.9897	 Val Loss 0.4311
+Saved epoch model
+Saved best model
+
+Epoch: 22/35
+Testing
+                                                                                     
+
+Epoch: 1/35
+	Train Loss 0.0397	 Learning Rate 0.0000857
+	Val Dist 5.0454	 Val Loss 0.3986
+Saved epoch model
+
+Epoch: 2/35
+	Train Loss 0.0414	 Learning Rate 0.0000587
+	Val Dist 4.9995	 Val Loss 0.4013
+Saved epoch model
+
+Epoch: 3/35
+	Train Loss 0.0432	 Learning Rate 0.0000375
+	Val Dist 4.9939	 Val Loss 0.3705
+Saved epoch model
+
+Epoch: 4/35
+	Train Loss 0.0481	 Learning Rate 0.0000223
+	Val Dist 5.0806	 Val Loss 0.3399
+Saved epoch model
+
+Epoch: 5/35
+	Train Loss 0.0458	 Learning Rate 0.0000131
+	Val Dist 5.0371	 Val Loss 0.3539
+Saved epoch model
+
+Epoch: 6/35
+	Train Loss 24.8720	 Learning Rate 0.0020000
+	Val Dist 70.6330	 Val Loss 6.4105
+Saved epoch model
+
+Epoch: 7/35
+	Train Loss 7.4424	 Learning Rate 0.0019992
+	Val Dist 70.7170	 Val Loss 6.5644
+Saved epoch model
+
+Epoch: 8/35
+	Train Loss 8.2446	 Learning Rate 0.0019969
+	Val Dist 80.6476	 Val Loss 9.7275
+Saved epoch model
+
+Epoch: 9/35
+Device:  cuda
+['', '[SIL]', 'NG', 'F', 'M', 'AE', 'R', 'UW', 'N', 'IY', 'AW', 'V', 'UH', 'OW', 'AA', 'ER', 'HH', 'Z', 'K', 'CH', 'W', 'EY', 'ZH', 'T', 'EH', 'Y', 'AH', 'B', 'P', 'TH', 'DH', 'AO', 'G', 'L', 'JH', 'OY', 'SH', 'D', 'AY', 'S', 'IH']
+41
+[' ', '-', 'G', 'f', 'm', '@', 'r', 'u', 'n', 'i', 'W', 'v', 'U', 'o', 'a', 'R', 'h', 'z', 'k', 'C', 'w', 'e', 'Z', 't', 'E', 'y', 'A', 'b', 'p', 'T', 'D', 'c', 'g', 'l', 'j', 'O', 'S', 'd', 'Y', 's', 'I']
+41
+(1404, 28)
+(147,)
+(1590, 28)
+(196,)
+(1390, 28)
+(179,)
+(1467, 28)
+(183,)
+Batch size:  21
+Train dataset samples = 28539, batches = 1359
+Val dataset samples = 2703, batches = 129
+Test dataset samples = 2620, batches = 125
+torch.Size([21, 1607, 28]) torch.Size([21, 199]) torch.Size([21]) torch.Size([21])
+torch.Size([21, 1607, 28]) torch.Size([21])
+ASRModel(
+  (augmentations): Sequential(
+    (0): PermuteBlock()
+    (1): FrequencyMasking()
+    (2): TimeMasking()
+    (3): PermuteBlock()
+  )
+  (encoder): Encoder(
+    (embedding): Sequential(
+      (0): PermuteBlock()
+      (1): ResNet34(
+        (embedding): Conv1d(28, 192, kernel_size=(7,), stride=(1,), padding=(3,))
+        (bn1): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU()
+        (layer1): Sequential(
+          (0): IdentityBlock1D(
+            (conv1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=192, out_features=12, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=12, out_features=192, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (1): IdentityBlock1D(
+            (conv1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=192, out_features=12, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=12, out_features=192, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (2): IdentityBlock1D(
+            (conv1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=192, out_features=12, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=12, out_features=192, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+        )
+        (layer2): Sequential(
+          (0): IdentityBlock1D(
+            (conv1): Conv1d(192, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=384, out_features=24, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=24, out_features=384, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+            (adjust_channels): Conv1d(192, 384, kernel_size=(1,), stride=(1,))
+          )
+          (1): IdentityBlock1D(
+            (conv1): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=384, out_features=24, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=24, out_features=384, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (2): IdentityBlock1D(
+            (conv1): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=384, out_features=24, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=24, out_features=384, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (3): IdentityBlock1D(
+            (conv1): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(384, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=384, out_features=24, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=24, out_features=384, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+        )
+        (layer3): Sequential(
+          (0): IdentityBlock1D(
+            (conv1): Conv1d(384, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+            (adjust_channels): Conv1d(384, 768, kernel_size=(1,), stride=(1,))
+          )
+          (1): IdentityBlock1D(
+            (conv1): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (2): IdentityBlock1D(
+            (conv1): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (3): IdentityBlock1D(
+            (conv1): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (4): IdentityBlock1D(
+            (conv1): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (5): IdentityBlock1D(
+            (conv1): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(768, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=768, out_features=48, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=48, out_features=768, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+        )
+        (layer4): Sequential(
+          (0): IdentityBlock1D(
+            (conv1): Conv1d(768, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(856, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=856, out_features=53, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=53, out_features=856, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+            (adjust_channels): Conv1d(768, 856, kernel_size=(1,), stride=(1,))
+          )
+          (1): IdentityBlock1D(
+            (conv1): Conv1d(856, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(856, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=856, out_features=53, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=53, out_features=856, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+          (2): IdentityBlock1D(
+            (conv1): Conv1d(856, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn1): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (conv2): Conv1d(856, 856, kernel_size=(3,), stride=(1,), padding=(1,))
+            (bn2): BatchNorm1d(856, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (se): SEBlock1D(
+              (avg_pool): AdaptiveAvgPool1d(output_size=1)
+              (fc1): Linear(in_features=856, out_features=53, bias=True)
+              (relu): ReLU()
+              (fc2): Linear(in_features=53, out_features=856, bias=True)
+              (sigmoid): Sigmoid()
+            )
+            (relu): ReLU()
+          )
+        )
+      )
+      (2): PermuteBlock()
+    )
+    (pBLSTMs): Sequential(
+      (0): pBLSTM(
+        (blstm): LSTM(856, 856, batch_first=True, bidirectional=True)
+      )
+      (1): pBLSTM(
+        (blstm): LSTM(3424, 856, batch_first=True, bidirectional=True)
+      )
+    )
+  )
+  (decoder): Decoder(
+    (mlp): Sequential(
+      (0): PermuteBlock()
+      (1): BatchNorm1d(3424, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): PermuteBlock()
+      (3): Linear(in_features=3424, out_features=384, bias=True)
+      (4): ReLU()
+      (5): Linear(in_features=384, out_features=128, bias=True)
+      (6): ReLU()
+      (7): Linear(in_features=128, out_features=41, bias=True)
+    )
+    (softmax): LogSoftmax(dim=2)
+  )
+)
